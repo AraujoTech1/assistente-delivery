@@ -31,6 +31,9 @@ O assistente utiliza a AWS Step Functions para orquestrar as etapas do pedido, i
 
 ## Captura de Tela
 
-![Escolha do Item](screenshots/captura%20de%20tela.png)
+Aqui está uma captura de tela do aplicativo em funcionamento, mostrando a escolha do item:
+
+![Escolha do Item](https://github.com/AraujoTech1/assistente-delivery/blob/master/screenshots/captura%20de%20tela.png.png)
+
 
 
