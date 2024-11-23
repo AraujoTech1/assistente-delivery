@@ -9,7 +9,7 @@ Este projeto simula um fluxo de trabalho do AWS Step Functions para o cardápio 
 
 O assistente utiliza a AWS Step Functions para orquestrar as etapas do pedido, integrando serviços como Amazon Bedrock para melhorar a experiência do usuário.
 
-## Tecnologias 
+## Tecnologias Utilizadas
 - **AWS Step Functions**
 - **Amazon Bedrock**
 - **Python**
