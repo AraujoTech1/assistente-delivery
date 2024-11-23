@@ -1,7 +1,10 @@
 <h1 align="center">Assistente de Delivery com AWS Step Functions e Amazon Bedrock</h1>
 
 ## Descrição do Projeto
-Este projeto simula um fluxo de trabalho do AWS Step Functions para o cardápio de um restaurante, permitindo que o cliente escolha entre diferentes opções de alimentos e bebidas. As opções disponíveis incluem:
+Este projeto simula um fluxo de trabalho do AWS Step Functions para o cardápio de um restaurante, permitindo que o cliente escolha entre diferentes opções de alimentos e bebidas.
+
+## Funcionalidades
+As opções disponíveis incluem:
 - X-burguer
 - Suco natural
 - Milkshake
