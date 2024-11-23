@@ -8,7 +8,7 @@ As opções disponíveis incluem:
 - X-burguer
 - Suco natural
 - Milkshake
-- Adicionais (quantidade de item, ex.: 10X-burguers + 3Milkshakes)
+- Adicionais (quantidade de itens, ex.: 10X-burguers + 3Milkshakes)
 
 O assistente utiliza a AWS Step Functions para orquestrar as etapas do pedido, integrando serviços como Amazon Bedrock para melhorar a experiência do usuário.
 
