@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 Este projeto simula um fluxo de trabalho do AWS Step Functions para o cardápio de um restaurante, permitindo que o cliente escolha entre diferentes opções de alimentos e bebidas.
 
-## Funcionalidades
+## Funcionalidades do Projeto
 As opções disponíveis incluem:
 - X-burguer
 - Suco natural
