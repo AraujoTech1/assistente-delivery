@@ -1,7 +1,7 @@
 import boto3
 
 def obter_recomendacoes(itens_selecionados):
-    # Exemplo de integração com o Amazon Bedrock para recomendações
+    
     recomendacoes = []
     for item in itens_selecionados:
         recomendacoes.append(f"Recomendação para {item}")
