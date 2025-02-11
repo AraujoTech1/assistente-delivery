@@ -13,9 +13,6 @@ As opções disponíveis incluem:
 O assistente utiliza a AWS Step Functions para orquestrar as etapas do pedido, integrando serviços como Amazon Bedrock para melhorar a experiência do usuário.
 
 
-## Teste
-![Escolha do Item](https://github.com/AraujoTech1/assistente-delivery/blob/master/screenshots/captura%20de%20tela.png.png)
-
 ## Tecnologias Utilizadas
 
 ![AWS Step Functions](https://img.shields.io/badge/AWS_Step_Functions-232F3E?style=for-the-badge&logo=aws&logoColor=white)
