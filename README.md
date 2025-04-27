@@ -24,10 +24,5 @@ O assistente utiliza a AWS Step Functions para orquestrar as etapas do pedido, i
   </a>
 </p>
 
----
-<p align="right">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
-</p>
 
 
